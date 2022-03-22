@@ -6,7 +6,7 @@ Hello. I'm @BandBoxBrawl - achievement hunter, occasional anime consumer, and wo
 
 # Services That Aren't on my Linktree
 
-You can reach me via my Linktree at https://linktr.ee/BandBoxBrawl. However, certain services don't HAVE web profiles. That's what this section is for.
+You can reach me via my [Linktree](https://linktr.ee/BandBoxBrawl). However, certain services don't HAVE web profiles. That's what this section is for.
 
 Listed here is an assortment of codes and such. These do not launch nukes. Do not attempt to launch nukes with these. Not that you *couldn't* but still...  
 
