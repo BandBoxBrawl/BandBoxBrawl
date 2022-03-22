@@ -2,7 +2,7 @@
 BandBoxBrawl/BandBoxBrawl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hello. I'm @BandBoxBrawl. You may know me under other names because, as children, our username choices were horrible and are now permanent stains on the Internet.
+Hello. I'm @BandBoxBrawl - achievement hunter, occasional anime consumer, and wooden tie enthusiast. You may know me under other names because, as children, our username choices were horrible and are now permanent stains on the Internet.
 
 # Services That Aren't on my Linktree
 
