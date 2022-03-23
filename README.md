@@ -12,6 +12,11 @@ You can click the Preview link to take a look at your changes.
 ## GitHub Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=BandBoxBrawl&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)  
 
+## Gamercards
+[![Exophase](https://card.exophase.com/2/0/39034.png?1648053253)](https://www.exophase.com/user/BandBoxBrawl/)  
+[![TrueAchievements](https://www.trueachievements.com/gamercards/BandBoxBrawl.png)](https://www.trueachievements.com/gamer/BandBoxBrawl)  
+[![PSNProfiles](https://card.psnprofiles.com/1/BandBoxBrawl.png)](https://psnprofiles.com/BandBoxBrawl)
+
 ## Services That Aren't on my Linktree
 
 You can reach me via my [Linktree](https://linktr.ee/BandBoxBrawl). However, certain services don't HAVE web profiles. That's what this section is for.
