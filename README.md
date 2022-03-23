@@ -2,9 +2,14 @@
 BandBoxBrawl/BandBoxBrawl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hello. I'm @BandBoxBrawl - achievement hunter, occasional anime consumer, and wooden tie enthusiast. You may know me under other names because, as children, our username choices were horrible and are now permanent stains on the Internet.
+# BandBoxBrawl
+- :trophy: Achievement hunter
+- :tv: Occasional anime consumer
+- :necktie: Wooden tie enthusiast
 
-# Services That Aren't on my Linktree
+Not looking to collaborate.
+
+## Services That Aren't on my Linktree
 
 You can reach me via my [Linktree](https://linktr.ee/BandBoxBrawl). However, certain services don't HAVE web profiles. That's what this section is for.
 
