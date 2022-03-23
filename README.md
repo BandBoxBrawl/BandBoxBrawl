@@ -9,6 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 Not looking to collaborate.
 
+## Spotify: Currently Playing
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=dappertroid&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=dappertroid&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)]]
+
 ## Services That Aren't on my Linktree
 
 You can reach me via my [Linktree](https://linktr.ee/BandBoxBrawl). However, certain services don't HAVE web profiles. That's what this section is for.
