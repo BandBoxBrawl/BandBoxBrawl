@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 Not looking to collaborate.
 
-## GitHub Trophies
+## GitHub Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=BandBoxBrawl&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)  
-For more information on these, [see ryo-ma's page](https://github.com/ryo-ma/github-profile-trophy).
+For more information on GitHub Profile Trophies, [see ryo-ma's page](https://github.com/ryo-ma/github-profile-trophy).
 
 ## Services That Aren't on my Linktree
 
