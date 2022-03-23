@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 [![Repos Badge](https://badges.pufler.dev/repos/BandBoxBrawl)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/BandBoxBrawl)](https://badges.pufler.dev)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=7B7B7B&vCenter=true&width=450&height=30&lines=Achievement+Hunter;Occasional+Anime+Consumer;Wooden+Tie+Enthusiast;linktr.ee%2FBandBoxBrawl)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=7B7B7B&vCenter=true&width=450&height=30&lines=Achievement+hunter;Occasional+anime+consumer;Wooden+tie+enthusiast;linktr.ee%2FBandBoxBrawl)](https://git.io/typing-svg)
 
 ## GitHub Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=BandBoxBrawl&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)  
