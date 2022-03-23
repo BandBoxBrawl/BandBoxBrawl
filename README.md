@@ -3,9 +3,13 @@ BandBoxBrawl/BandBoxBrawl is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # BandBoxBrawl
-- :trophy: Achievement hunter
-- :tv: Occasional anime consumer
-- :necktie: Wooden tie enthusiast
+[![Visits Badge](https://badges.pufler.dev/visits/BandBoxBrawl/git-badges)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/BandBoxBrawl)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/BandBoxBrawl)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/BandBoxBrawl)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/BandBoxBrawl)](https://badges.pufler.dev)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7B7B7B&center=true&vCenter=true&lines=Achievement+Hunter;Occasional+Anime+Consumer;Wooden+Tie+Enthusiast;https%3A%2F%2Flinktr.ee%2FBandBoxBrawl)](https://git.io/typing-svg)
 
 Not looking to collaborate.
 
